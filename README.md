@@ -48,5 +48,5 @@ I've been passionately self-learning code for 4 years as of 2024 and passionatel
 
 
 
-<ahref="http://www.github.com/MxIm77"><img
+<a href="http://www.github.com/MxIm77"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=MxIm77&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

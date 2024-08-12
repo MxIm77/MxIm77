@@ -8,7 +8,7 @@ I've been passionately self-learning code for 4 years as of 2024 and passionatel
 
 *   🌍  I'm based in Beirut, Lebanon
 *   ✉️  You can contact me at [maximsby77@gmail.com](mailto:maximsby77@gmail.com)
-*   🚀  I'm currently working on [Phoenicia Digital](http://www.linkedin.com/company/phoenicia-digital-agency/)
+*   🚀  I'm currently working on [Phoenicia Digital](hhttps://phoeniciadigital.com/)
 *   🧠  I'm learning QT 6, Flutter & Dart
 *   🤝  I'm open to collaborating on Startup Projects
 *   ⚡  I'm Secretly Batman ... DONT TELL ANYONE

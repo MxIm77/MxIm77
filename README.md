@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Phoenicia Digital<br><br>✉️ You can contact me at maximsby77@gmail.com<br><br> 🤝 I'm open to collaborating on Startup Projects<br><br>🧠 I’m currently learning QT & Cryptography<br>
+🔭 I’m currently working at Meshwar Lebnen<br><br>✉️ You can contact me at maximsby77@gmail.com<br><br> 🤝 I'm open to collaborating on Startup Projects<br><br>🧠 I’m currently learning QT & Cryptography<br>
 
 
 ## 🌐 Socials:
